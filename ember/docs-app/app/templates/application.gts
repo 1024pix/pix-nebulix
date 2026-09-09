@@ -7,6 +7,7 @@ import { pageTitle } from 'ember-page-title';
 
   <div class="app-layout">
     <header>
+      <img src="https://assets.pix.org/communication/pix.png" alt="" />
       <DocsGroupNav />
     </header>
 
