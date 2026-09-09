@@ -87,7 +87,7 @@
   },
   "engines": {
     "node": "24.*",
-    "pnpm": ">= 11"
+    "pnpm": ">= 12"
   },
   "ember": {
     "edition": "octane"
